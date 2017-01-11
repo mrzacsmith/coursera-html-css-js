@@ -20,7 +20,7 @@ p {
 }
 .content {
 	padding: 0 10px;
-  background-color: gray;
+  /*background-color: gray;*/
   position: relative;
 }
 .title_area {
